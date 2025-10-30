@@ -1,23 +1,27 @@
 
----
-
 ### About Me
 
-- 👨‍💻 **Frontend/MERN Developer** with nearly **10 years of experience** in web and mobile app development.
-- 🛠 Skilled in **React**, **React Native**, **Node.js**, **Express**, **MongoDB**, and **full-stack development**.
-- 🔄 Expertise in integrating **HubSpot** and handling **complex business logic** for seamless workflows.
-- 🌐 Worked with **global clients** in dynamic environments, excelling in **remote collaboration**.
-- 🎨 Strong focus on **UI/UX design**, building reusable and modular components for optimized development.
-- 📈 Proficient in **GraphQL**, **API integration**, **Redux**, **Material UI**, **Bootstrap**, and **jQuery**.
-- 🔧 Experienced in managing **end-to-end projects**, from UI development to API data handling.
-- 🎯 **Pixel-perfect designs** and **responsive web pages** with a focus on performance optimization and SEO.
-- 🌐 **Tried launching two SaaS platforms**:
-  - [**FormMaker**](https://formmaker.co.in/): A tool for creating dynamic, multi-step forms with advanced features like field dependencies, calculations, and HubSpot integration.
-  - [**Anytime CPQ**](https://www.anytimecpq.com/): A CPQ (Configure, Price, Quote) solution designed to manage product libraries, build real-time quotes, and handle deal workflows. Though these ventures didn’t succeed, they were valuable learning experiences in SaaS development and entrepreneurship.
-- 🎓 Holds a **Master of Computer Applications (MCA)** and a **Bachelor of Commerce (B.Com)**.
-- 🚀 Constantly learning and staying updated with the latest trends in **web development**.
+* 👨‍💻 **Frontend/MERN Developer** with nearly **11 years of experience** in web and mobile app development.
+* 🛠 Skilled in **React**, **React Native**, **Node.js**, **Express**, **MongoDB**, and **full-stack development**.
+* 🔄 Expertise in integrating **HubSpot** and handling **complex business logic** to build seamless workflows.
+* 🌐 Worked with **global clients** across dynamic environments, excelling in remote collaboration.
+* 🎨 Strong focus on **UI/UX**, building reusable and modular components for scalable development.
+* 📈 Proficient in **GraphQL**, **API integration**, **Redux**, **Material UI**, **Bootstrap**, and **jQuery**.
+* 🔧 Experienced in managing **end-to-end projects**, from UI architecture to backend integration.
+* 🎯 Passionate about building **pixel-perfect, responsive applications**, with emphasis on performance & SEO.
+* 🌐 **Tried launching multiple SaaS platforms**:
 
----
+  * ✅ **FormMaker** – Dynamic, multi-step form builder with HubSpot integrations
+    [https://formmaker.co.in](https://formmaker.co.in)
+  * ✅ **ConnectSafely AI** – Smart tools to manage connections and conversations
+    [https://connectsafely.ai](https://connectsafely.ai)
+  * ✅ **SocialInbox AI** – Multi-platform inbox for smart social responses
+    [https://socialinbox.ai](https://socialinbox.ai)
+  * ✅ **SmartReply** – AI-assisted auto-reply & engagement
+    [https://smartereply.com](https://smartereply.com)
+    These ventures provided strong learnings in SaaS development, product building & entrepreneurship.
+* 🎓 Holds **Master of Computer Applications (MCA)** and **Bachelor of Commerce (B.Com)**.
+* 🚀 Passionate about continuous learning and exploring new technologies.
 
 
 # 💻 Tech Stack:
